@@ -27,11 +27,11 @@ namespace ConsoleApp32
             List<Orderitem> orderitems1 = new List<Orderitem>();
             orderitems1.Add(item1);
             orderitems1.Add(item3);
-            List<Orderitem> orderitems2 = new List<Orderitem>();
-            orderitems2.Add(item2);
-            orderitems2.Add(item4);
+            orderitems1.Add(item2);
+            orderitems1.Add(item4);
+
+
             Order order1 = new Order { Id = 1, OrderItems = orderitems1 };
-            Order order2 = new Order { Id = 2, OrderItems = orderitems2 };
             var jsonObj = JsonConvert.SerializeObject(order1);
 
             DirectoryInfo directoryInfo = new DirectoryInfo(Directory.GetCurrentDirectory());
@@ -54,8 +54,11 @@ namespace ConsoleApp32
             List<Orderitem> orederlist = o1.OrderItems;
             foreach (var element in orederlist)
             {
+                Console.WriteLine("-------------");
                 Console.WriteLine("Id:" + element.Id);
                 Console.WriteLine("Product:" + element.Product.Name);
+                Console.WriteLine("Price:" + element.Product.Price);
+                Console.WriteLine("Count:" + element.Count);
                 Console.WriteLine("Total Price:" + element.TotalPrice);
             }
         }
