@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\bin\Debug\netcoreapp3.1\ConsoleApp32.exe
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\bin\Debug\netcoreapp3.1\ConsoleApp32.deps.json
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\bin\Debug\netcoreapp3.1\ConsoleApp32.runtimeconfig.json
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\bin\Debug\netcoreapp3.1\ConsoleApp32.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\bin\Debug\netcoreapp3.1\ConsoleApp32.dll
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\bin\Debug\netcoreapp3.1\ConsoleApp32.pdb
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\obj\Debug\netcoreapp3.1\ConsoleApp32.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\obj\Debug\netcoreapp3.1\ConsoleApp32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\obj\Debug\netcoreapp3.1\ConsoleApp32.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\obj\Debug\netcoreapp3.1\ConsoleApp32.AssemblyInfo.cs
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\obj\Debug\netcoreapp3.1\ConsoleApp32.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\obj\Debug\netcoreapp3.1\ConsoleApp32.csproj.CopyComplete
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\obj\Debug\netcoreapp3.1\ConsoleApp32.dll
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\obj\Debug\netcoreapp3.1\ConsoleApp32.pdb
+C:\Users\Acer\Desktop\task3\ConsoleApp32\ConsoleApp32\obj\Debug\netcoreapp3.1\ConsoleApp32.genruntimeconfig.cache
